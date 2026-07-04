@@ -35,6 +35,6 @@ ESP32 Pin	Button	Function
 13	Button 2	Right Click
 14	Button 3	Scroll Up
 27	Button 4	Scroll Down
-📦 Arduino Libraries Required
+
 ￼
 
